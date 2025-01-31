@@ -1,4 +1,4 @@
-# Responsive School Website (React.js) *(Not Responsive Yet!)*
+# Simple School Website (React.js)*
 
 This repository contains my **first independent React.js project**, where I build a **simple school website** as part of my introductory React class from private tutoring.  
 
