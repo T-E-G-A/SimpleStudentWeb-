@@ -2,7 +2,7 @@
 
 This repository contains my **first independent React.js project**, where I build a **simple school website** as part of my introductory React class from private tutoring.  
 
-> ⚠️ **Note:** This website is **not responsive yet**! I am currently working on improving its responsiveness.  
+> ⚠️ **Note:** This website is **not responsive yet**! I am currently working on improving its responsiveness(fixed).  
 > 🚀 **Current Status:** The site is **front-end only** with **no backend functionalities** at the moment.  
 
 ## 🏫 Project Overview
@@ -26,7 +26,7 @@ The project consists of multiple React components representing different section
 
 - Learn **React.js fundamentals** through hands-on practice.  
 - Implement **component-based development**.  
-- Improve **responsiveness** (in progress).  
+- Improve **responsiveness** (in progress)[fixed].  
 
 ## 📜 License
 
