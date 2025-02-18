@@ -30,4 +30,4 @@ The project consists of multiple React components representing different section
 
 ## 📜 License
 
-This project is **for learning purposes** and does not include a license.
+MIT License
