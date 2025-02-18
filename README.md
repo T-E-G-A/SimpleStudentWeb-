@@ -1,6 +1,6 @@
 # Simple School Website (React.js)*
 
-This repository contains my **first independent React.js project**, where I build a **simple school website** as part of my introductory React class from private tutoring.  
+This repository contains my **first independent React.js project**, where I built a **simple school website** as part of my introductory React class from private tutoring.  
 
 > ⚠️ **Note:** This website is **not responsive yet**! I am currently working on improving its responsiveness(fixed).  
 > 🚀 **Current Status:** The site is **front-end only** with **no backend functionalities** at the moment.  
